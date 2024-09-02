@@ -44,11 +44,3 @@ The project evaluates the model using cross-validation with the following metric
 
 The results obtained using cross-validation help in assessing the accuracy and performance of the model.
 
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-The emojis and structured sections make the README engaging and easy to navigate. Let me know if you need any further modifications!
