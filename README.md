@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
     ```bash
-    gh repo clone maheera421/Car-Price-Prediction-Model
+    gh repo clone https://github.com/maheera421/Car-Price-Prediction-Model.git
     ```
 
 2. Install the required dependencies:
